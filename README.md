@@ -1,8 +1,7 @@
 # -Development-of-IoT-based-Fishermen-Alarm-System
 TAMILNADU STATE COUNCIL FOR SCIENCE AND TECHNOLOGY 
 STUDENT PROJECT REPORT
-DESIGN AND DEVELOPMENT OF IoT BASED FISHERMEN 
-ALARM SYSTEM
+
 INTRODUCTION:
 Water is the most quintessential element for the survival of mankind. It remains an important 
 source of food, nutrition, income and livelihood for millions of people around the world Its variety of 
