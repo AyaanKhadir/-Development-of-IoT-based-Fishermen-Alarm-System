@@ -27,6 +27,8 @@ TDS sensor module kit was integrated to conduct the parameters testing on a week
 at multiple day intervals. The system works reliably but is reliant on human assistance and is prone 
 to data inaccuracies. The system however, provides solid foundation for future expansion works of 
 the water monitoring category to elevate the system being IoT friendly.
+![Screenshot 2024-07-14 185858](https://github.com/user-attachments/assets/0e9c97fc-b781-4c4b-9c7b-2cc73105a75c)
+
 METHODOLOGY
 The development of simple prototype system fit for water quality monitoring to be comprised with the 
 distinct components.
