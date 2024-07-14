@@ -10,6 +10,8 @@ water most primarily comes from large reservoirs of water such as lakes, streams
 ocean itself. As such, it is good practice to monitor the quality of water to ensure it is fit for human 
 consumption. The Current water quality monitoring is often carried out in traditional labs but is time 
 consuming and prone to inaccuracies.
+![WhatsApp Image 2023-05-17 at 3 41 57 AM](https://github.com/user-attachments/assets/04eef0a2-7b48-4aad-8a3d-cc6240d859f3)
+ the respect to the water culture and
 OBJECTIVES:
 Our project aims to investigate the feasibility of implementing an Arduino-based sensor system for 
 water quality monitoring. It focuses on the major parameters including pH of water, temperature, 
@@ -56,8 +58,7 @@ ANY OTHER DETAILS:
 IMPACT OF OUR PROJECT TOWARDS SOCIETY:
 • In the State of Tamil Nadu, supply of water most primarily comes from large reservoirs of 
 water such as lakes, streams, seas and the ocean itself. As such, the condition monitoring 
-system can be a good interface to monitor and work with![WhatsApp Image 2023-05-17 at 3 41 57 AM](https://github.com/user-attachments/assets/04eef0a2-7b48-4aad-8a3d-cc6240d859f3)
- the respect to the water culture and
+system can be a good interface to monitor and work with
 promoting growth to the fisheries department.
 • Overall idea about the percentage of cultivated water for sediment washing, primary usage ![WhatsApp Image 2023-05-17 at 4 26 45 AM](https://github.com/user-attachments/assets/09c3578f-7cef-46ad-94d5-8c32d57af4e9)
 
